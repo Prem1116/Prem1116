@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm  Prem</h1>
-<h3 align="center">🚀 Full Stack Web Developer | Java | ReactJS</h3>
+<h3 align="center">🚀 Full Stack Web Developer | Java | Web Tech | ReactJS</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Full+Stack+Java+Developer;ReactJS+%7C;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
