@@ -31,8 +31,7 @@
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Prem1116&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=Prem1116&theme=highcontrast&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=Prem1116&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)  ![](https://nirzak-streak-stats.vercel.app/?user=Prem1116&theme=highcontrast&hide_border=false)
 
 ---
 
