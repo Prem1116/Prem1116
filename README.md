@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Full+Stack+Java+Developer;Web Tech+%7C;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
+</p>
 
 ---
 
