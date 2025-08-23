@@ -17,12 +17,6 @@
 
 ---
 
-### 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prem_.radhakrishnan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:radhaprem72@gmail.com) 
-
----
-
 ### 🛠️ Tech Stack
 
 ### 💻 Languages:
@@ -44,9 +38,15 @@
 
 ---
 
-### ✍️ Random Dev Quote
+### 🌐 Let's Connect
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prem_.radhakrishnan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:radhaprem72@gmail.com) 
+
+---
+
+### 🧠 Quote I Liked by
+
+> “First, solve the problem. Then, write the code.” – John Johnson
 
 ---
 
