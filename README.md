@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Web Developer | Java | ReactJS</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=900&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Java+|+Spring+Boot;ReactJS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Full+Stack+Java+Developer;Frontend+%7C+Backend+%7C+API+Integration;ReactJS+%7C+SpringBoot+%7C+MySQL;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
