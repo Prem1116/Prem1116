@@ -9,11 +9,11 @@
 ---
 
 ### 🧑‍💻 About Me
--🔭 I’m currently building **full-stack web apps** using Java, Spring Boot & React
--💭 Focused on Developing responsive and scalable application
--🌱 I’m learning advanced DSA, UI/UX design, and cloud deployment
--💡 Passionate about development and crafting clean, user-friendly experiences
--⚡ Fun fact: I love debugging as much as building 🔍🛠️
+-🔭 I’m currently building **full-stack web apps** using Java, Spring Boot & React<br>
+-💭 Focused on Developing responsive and scalable application<br>
+-🌱 I’m learning advanced DSA, UI/UX design, and cloud deployment<br>
+-💡 Passionate about development and crafting clean, user-friendly experiences<br>
+-⚡ Fun fact: I love debugging as much as building 🔍🛠️<br>
 
 ---
 
