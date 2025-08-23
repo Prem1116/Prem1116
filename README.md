@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?
-center=true&vCenter=true&lines=Full+Stack+Java+Developer;Frontend+%7C+Backend+%7C+API+Integration;ReactJS+%7C+SpringBoot+%7C+MySQL;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+center=true&vCenter=true&lines=Full+Stack+Java+Developer;Frontend+%7C+Backend+%7C+API+Integration;ReactJS+%7C+SpringBoot+%7C+MySQL;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG"/>
 </p>
 
 ---
