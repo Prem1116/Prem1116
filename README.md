@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Prem</h1>
-<h3 align="center">🚀 Full Stack Web Developer | Java | SpringBoot</h3>
+<h3 align="center">🚀 Full Stack Web Developer | Java | Angular</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Full+Stack+Java+Developer;Frontend+%7C+Backend+%7C+API+Integration;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
@@ -8,7 +8,7 @@
 ---
 
 ### 🧑‍💻 About Me
--🔭 I’m currently building **full-stack web apps** using Java, Spring Boot & React<br>
+-🔭 I’m currently building **full-stack web apps** using Java, Spring Boot & Angular<br>
 -💭 Focused on Developing responsive and scalable application<br>
 -🌱 I’m learning advanced DSA, UI/UX design, and cloud deployment<br>
 -💡 Passionate about development and crafting clean, user-friendly experiences<br>
